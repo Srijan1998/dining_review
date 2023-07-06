@@ -1,4 +1,4 @@
-package com.example.dining_review;
+package com.example.dining_review.entities;
 
 import jakarta.persistence.*;
 
